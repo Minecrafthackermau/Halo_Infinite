@@ -1,2 +1,2 @@
 ﻿# Halo_Infinite
-Estoy probando git
+Pagina web del videojuego Halo Infinite
